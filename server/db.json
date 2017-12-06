@@ -31,14 +31,11 @@
       "featured": true
     },
     {
-      "id": 3,
-      "name": "Jeffrey",
-      "userID": 3,
-      "image": "http://http.cat/418",
       "title": "I'm a little Teapot",
       "subTitle": "The Song we all Know and Love",
-      "text": "I'm a little teapot\nshort and stout\nhere is my handle\nhere is my spout\n\nWhen I get all steamed up\nhear me shout\ntip me over\nand pour me out'",
-      "featured": true
+      "image": "http://http.cat/418",
+      "text": "I'm a little teapot\nshort and stout\nhere is my handle\nhere is my spout\n\nWhen I get all steamed up\nhear me shout\ntip me over\nand pour me out'\n\nThis is an edit",
+      "id": 3
     },
     {
       "id": 4,
@@ -301,6 +298,12 @@
       "name": "Leo",
       "img": "https://unsplash.it/300/?random",
       "desc": "I'm not real. I'm just a pseudonym of a guy that doesn't like waiting for fast food workers to figure out how to spell his name."
+    },
+    {
+      "name": "Ben Lewis",
+      "img": "https://http.cat/100",
+      "desc": "Student at Dev Mountain",
+      "id": 13
     }
   ]
 }
